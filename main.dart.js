@@ -85616,7 +85616,7 @@ s.toString
 A.N8(s,0,B.ho,B.az,B.dI)},
 $S:5}
 A.aja.prototype={
-$0(){var s=A.auz("assets/images/darshancv.pdf")
+$0(){var s=A.auz("https://github.com/darshanpandav27/darshanpandav27.github.io/blob/main/assets/assets/images/darshancv.pdf")
 s.download="Darshan CV"
 s.click()},
 $S:5}
